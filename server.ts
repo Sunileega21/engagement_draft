@@ -23,21 +23,21 @@ const CONFIG_FILE = path.join(DATA_DIR, 'config.json');
 // Default celebration config
 const DEFAULT_CONFIG = {
   groomName: 'Sunil',
-  groomSurname: 'Eega',
-  brideName: 'Ananya',
-  brideSurname: 'Reddy',
-  parentsGroom: 'Smt. & Sri Eega Ramulu',
-  parentsBride: 'Smt. & Sri Reddy Venkat & Madhavi',
-  engagementDate: '2026-10-24T18:00:00',
-  displayDate: 'Saturday, 24th October 2026',
+  groomSurname: 'Eaga',
+  brideName: 'Sadhana',
+  brideSurname: 'Dasu',
+  parentsGroom: 'Sri Bala Krishna Murthy & Smt. Kumari',
+  parentsBride: 'Sri Koteswarudu & Smt. Neeraja',
+  engagementDate: '2026-10-25T18:00:00',
+  displayDate: 'Sunday, 25th October 2026',
   displayTime: '6:00 PM onwards',
   venueName: 'The Royal Palace Courtyard & Ballroom',
   venueAddress: 'Road No. 36, Jubilee Hills, Hyderabad, Telangana 500033',
   googleMapsUrl: 'https://maps.google.com/?q=Jubilee+Hills+Hyderabad',
   mapCoordinates: { lat: 17.4319, lng: 78.4073 },
   dressCode: 'Indian Traditional Festive / Indo-Western Royalty (Ivory, Gold & Jewel Tones)',
-  googleCalendarUrl: 'https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sunil+%26+Ananya+Engagement+Ceremony&dates=20261024T123000Z/20261024T173000Z&details=With+the+blessings+of+our+families,+we+invite+you+to+celebrate+the+beginning+of+our+forever!&location=The+Royal+Palace+Courtyard,+Jubilee+Hills,+Hyderabad',
-  contactPhone: '+91 98765 43210',
+  googleCalendarUrl: 'https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sunil+%26+Sadhana+Engagement+Ceremony&dates=20261025T123000Z/20261025T173000Z&details=With+the+blessings+of+our+families,+we+invite+you+to+celebrate+the+beginning+of+our+forever!&location=The+Royal+Palace+Courtyard,+Jubilee+Hills,+Hyderabad',
+  contactPhone: '+91 9741275595',
   googleSheetsWebhookUrl: '', // Optional Google Apps Script webhook
 };
 
