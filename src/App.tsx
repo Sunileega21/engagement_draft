@@ -28,7 +28,7 @@ const INITIAL_CONFIG: InvitationConfig = {
   googleMapsUrl: 'https://maps.google.com/?q=Jubilee+Hills+Hyderabad',
   mapCoordinates: { lat: 17.4319, lng: 78.4073 },
   dressCode: 'Indian Traditional Festive / Indo-Western Royalty (Ivory, Gold & Jewel Tones)',
-  googleCalendarUrl: 'https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sunil+%26+Ananya+Engagement+Ceremony&dates=20261024T123000Z/20261024T173000Z&details=With+the+blessings+of+our+families,+we+invite+you+to+celebrate+the+beginning+of+our+forever!&location=The+Royal+Palace+Courtyard,+Jubilee+Hills,+Hyderabad',
+  googleCalendarUrl: 'https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sunil+%26+Sadhana+Engagement+Ceremony&dates=20261025T123000Z/20261024T173000Z&details=With+the+blessings+of+our+families,+we+invite+you+to+celebrate+the+beginning+of+our+forever!&location=The+Royal+Palace+Courtyard,+Jubilee+Hills,+Hyderabad',
   contactPhone: '+91 9848090278',
 };
 
